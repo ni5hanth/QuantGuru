@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/QuantGuru/static/css/main.e7b76d86.css",
+    "main.js": "/QuantGuru/static/js/main.537b0204.js",
+    "static/media/fa-solid-900.ttf": "/QuantGuru/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/QuantGuru/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/QuantGuru/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/QuantGuru/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/QuantGuru/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/image4.png": "/QuantGuru/static/media/image4.8540d0443933dd104a36.png",
+    "static/media/image3.png": "/QuantGuru/static/media/image3.1042f2006082496702cf.png",
+    "static/media/image1.png": "/QuantGuru/static/media/image1.bbfd764777dae407fd5e.png",
+    "static/media/image5.png": "/QuantGuru/static/media/image5.72159fc0418dea161aac.png",
+    "static/media/image2.png": "/QuantGuru/static/media/image2.dcae810bb8ff2c8792dc.png",
+    "static/media/fa-regular-400.woff2": "/QuantGuru/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/QuantGuru/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/QuantGuru/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/QuantGuru/index.html",
+    "main.e7b76d86.css.map": "/QuantGuru/static/css/main.e7b76d86.css.map",
+    "main.537b0204.js.map": "/QuantGuru/static/js/main.537b0204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7b76d86.css",
+    "static/js/main.537b0204.js"
+  ]
+}
